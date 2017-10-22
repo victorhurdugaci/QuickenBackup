@@ -1,0 +1,5 @@
+[Bb]in/
+[Oo]bj/
+PublishProfiles/
+launchSettings.json
+*.csproj.user
